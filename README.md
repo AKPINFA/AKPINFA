@@ -1,71 +1,135 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:1E90FF&height=200&section=header&text=Exhauc%C3%A9%20Perrin%20AKPINFA&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=G%C3%A9nie%20%C3%A9lectrique%20et%20informatique%20-%20Intelligence%20artificielle&descSize=16&descAlignY=58" alt="Bannière"/>
+ <!-- README.md -->
 
+<!-- ANIMATED HEADER -->
 <p align="center">
-  📍 Bénin 🇧🇯 &nbsp;·&nbsp; 🗣️ Français, Anglais
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Exhauc%C3%A9+Perrin+AKPINFA;Electrical+%26+Computer+Engineering;AI+%7C+Machine+Learning+%7C+Software" alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/exhauc%C3%A9-perrin-a-60950b43a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://akpinfa.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:aexhauce@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <strong>Electrical & Computer Engineering Student</strong><br>
+  <em>Artificial Intelligence · Machine Learning · Software Development</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AKPINFA?tab=followers"><img src="https://img.shields.io/github/followers/AKPINFA?style=flat-square&logo=github&labelColor=0A2540&color=1E90FF" alt="Followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=AKPINFA&label=Vues%20du%20profil&color=1E90FF&style=flat-square" alt="Vues du profil"/>
+  🇧🇯 Benin &nbsp;·&nbsp; Open to collaboration and learning opportunities
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/exhauc%C3%A9-perrin-a-60950b43a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://akpinfa.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:aexhauce@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AKPINFA&label=Profile%20Views&color=1E90FF&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/AKPINFA?label=Followers&style=flat-square&color=0A2540" alt="GitHub followers">
 </p>
 
 ---
 
-## 👋 À propos de moi
+## About Me
 
-Étudiant en **Licence 3 de Génie électrique et informatique**, je m'intéresse à l'**intelligence artificielle** et à la création de projets concrets qui allient électronique, programmation et données.
+I am a **third-year Electrical and Computer Engineering student** with a strong interest in Artificial Intelligence, Machine Learning, and software engineering.
 
-- 🎓 Licence 3 : Génie électrique et informatique
-- 🤖 Centre d'intérêt: intelligence artificielle, data, IoT
-- 🤝 Ouvert aux collaborations et aux échanges autour de l'IA
-- 📫 Contact : [aexhauce@gmail.com](mailto:aexhauce@gmail.com)
+I enjoy turning ideas into practical projects, exploring intelligent systems, and developing solutions that combine programming, data, and technology.
+
+- 🎓 L3 — Electrical and Computer Engineering
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 💻 Building projects with Python and web technologies
+- 🧠 Learning by developing real-world applications
+- 🤝 Interested in collaboration, innovation, and continuous learning
 
 ---
 
-## 🛠️ Compétences techniques
+## Tech Stack
+
+### Programming & Development
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,java" alt="Programming languages">
+</p>
+
+### AI, Data & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,numpy,git,github,vscode" alt="AI and development tools">
+</p>
+
+**Currently exploring:** Machine Learning, data analysis, neural networks, and intelligent applications.
+
+---
+
+## Featured Projects
+
+### 🎵 CodeAlpha Music Generation
+
+A music generation project developed as part of my CodeAlpha internship.
+
+- Python-based music generation
+- Machine Learning and neural network experimentation
+- Model training and music sample generation
+- MIDI and WAV output files
+
+🔗 **[Explore the repository](https://github.com/AKPINFA/CodeAlpha_MusicGeneration)**
+
+---
+
+### 🗂️ Digital Archive Management System
+
+A web-based digital archiving project developed to explore the digitization and organization of administrative documents.
+
+- PHP and MySQL
+- Database management
+- Digital document organization
+- Web application development
+
+🔗 **[Explore the demo](https://archive-mairie.page.gd)**
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal portfolio showcasing my background, skills, and projects.
+
+🔗 **[Visit my portfolio](https://akpinfa.github.io/Portfolio/)**
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AKPINFA&show_icons=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKPINFA&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AKPINFA&hide_border=true&background=0d1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub contribution streak">
 </p>
 
 ---
 
-## 🚀 Projets
+## Let's Connect
 
-| Projet | Lien |
-|---|---|
-| 🌐 **Portfolio** : mon portfolio personnel | [Voir le site](https://akpinfa.github.io/Portfolio/) |
-
----
-
-## 📊 Statistiques GitHub
+I am always interested in connecting with developers, AI enthusiasts, and people working on innovative projects.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AKPINFA&show_icons=true&hide_border=true&title_color=1E90FF&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Stats GitHub"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AKPINFA&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Langages principaux"/>
+  <a href="https://www.linkedin.com/in/exhauc%C3%A9-perrin-a-60950b43a">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://akpinfa.github.io/Portfolio/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:aexhauce@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AKPINFA&hide_border=true&background=0d1117&ring=1E90FF&fire=1E90FF&currStreakLabel=87CEFA&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Série de contributions"/>
+  <em>Learn. Build. Innovate.</em>
 </p>
-
----
-
-## 🤝 Restons en contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/exhauc%C3%A9-perrin-a-60950b43a"><img src="https://img.shields.io/badge/Me%20retrouver%20sur-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0A2540&height=100&section=footer" alt="Footer banner">
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0A2540&height=100&section=footer" alt="Pied de page"/>
