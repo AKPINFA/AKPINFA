@@ -1,4 +1,4 @@
- <!-- README.md -->
+<!-- README.md -->
 
 <!-- ANIMATED HEADER -->
 <p align="center">
@@ -37,12 +37,12 @@
 
 I am a **third-year Electrical and Computer Engineering student** with a strong interest in Artificial Intelligence, Machine Learning, and software engineering.
 
-I enjoy turning ideas into practical projects, exploring intelligent systems, and developing solutions that combine programming, data, and technology.
+I enjoy turning ideas into complete, working projects: from the data and the model to a polished interface that anyone can try.
 
 - 🎓 L3 — Electrical and Computer Engineering
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 💻 Building projects with Python and web technologies
-- 🧠 Learning by developing real-world applications
+- 🤖 Building end-to-end AI projects: NLP, computer vision and generative AI
+- 💻 Developing with Python and web technologies
+- 🧠 Learning by building real-world applications
 - 🤝 Interested in collaboration, innovation, and continuous learning
 
 ---
@@ -58,45 +58,86 @@ I enjoy turning ideas into practical projects, exploring intelligent systems, an
 ### AI, Data & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,numpy,git,github,vscode" alt="AI and development tools">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,numpy,git,github,vscode" alt="AI and development tools">
 </p>
 
-**Currently exploring:** Machine Learning, data analysis, neural networks, and intelligent applications.
+**Currently exploring:** deep learning, computer vision, natural language processing, and generative AI.
 
 ---
 
 ## Featured Projects
 
-### 🎵 CodeAlpha Music Generation
+Four end-to-end AI projects, each with its own documented repository: a clear README, a clean interface, and code that anyone can run.
 
-A music generation project developed as part of my CodeAlpha internship.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AKPINFA/CodeAlpha_LanguageTranslationTool">
+        <img src="https://github.com/AKPINFA/CodeAlpha_LanguageTranslationTool/raw/main/screenshots/banner.png" alt="Language Translation Tool" width="100%">
+      </a>
+      <h3>🌍 Language Translation Tool</h3>
+      <p><sub><b>NATURAL LANGUAGE PROCESSING</b></sub></p>
+      <p>A web app that translates text between 130+ languages. It includes a multi-language mode (one text, up to four languages, one tab each), a copy button, and text-to-speech with a choice of male or female voice. Several translation services are tried in turn for reliability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+        <img src="https://img.shields.io/badge/REST_APIs-0A2540?style=flat-square" alt="REST APIs">
+      </p>
+      <a href="https://github.com/AKPINFA/CodeAlpha_LanguageTranslationTool"><strong>View repository →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AKPINFA/CodeAlpha_FAQChatbot">
+        <img src="https://github.com/AKPINFA/CodeAlpha_FAQChatbot/raw/main/screenshots/banner.png" alt="FAQ Chatbot" width="100%">
+      </a>
+      <h3>💬 FAQ Chatbot</h3>
+      <p><sub><b>NATURAL LANGUAGE PROCESSING</b></sub></p>
+      <p>An NLP chatbot that answers frequently asked questions. Questions are cleaned with NLTK, matched with TF-IDF and cosine similarity, and answered with a confidence score in a modern chat interface, with a polite fallback when it is not sure.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" alt="NLTK">
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+      </p>
+      <a href="https://github.com/AKPINFA/CodeAlpha_FAQChatbot"><strong>View repository →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AKPINFA/CodeAlpha-ObjectDetection">
+        <img src="https://github.com/AKPINFA/CodeAlpha-ObjectDetection/raw/main/screenshots/banner.png" alt="Object Detection and Tracking" width="100%">
+      </a>
+      <h3>🎯 Object Detection & Tracking</h3>
+      <p><sub><b>COMPUTER VISION</b></sub></p>
+      <p>Real-time object detection and tracking from a webcam or a video file. YOLO detects the objects and Deep SORT gives each one a persistent ID, with movement trails, live counters, and optional saving of the annotated video.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+        <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square" alt="YOLO">
+        <img src="https://img.shields.io/badge/Deep_SORT-6D28D9?style=flat-square" alt="Deep SORT">
+      </p>
+      <a href="https://github.com/AKPINFA/CodeAlpha-ObjectDetection"><strong>View repository →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AKPINFA/CodeAlpha_MusicGeneration">
+        <img src="https://github.com/AKPINFA/CodeAlpha_MusicGeneration/raw/main/screenshots/banner.png" alt="AI Music Generator" width="100%">
+      </a>
+      <h3>🎼 AI Music Generator</h3>
+      <p><sub><b>GENERATIVE AI</b></sub></p>
+      <p>An LSTM neural network trained on Bach chorales that composes new music. Pieces are exported as MIDI and audio, and explored in a studio-style interface with a piano roll, a chord chart, and a waveform.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/LSTM-6D28D9?style=flat-square" alt="LSTM">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+      </p>
+      <a href="https://github.com/AKPINFA/CodeAlpha_MusicGeneration"><strong>View repository →</strong></a>
+    </td>
+  </tr>
+</table>
 
-- Python-based music generation
-- Machine Learning and neural network experimentation
-- Model training and music sample generation
-- MIDI and WAV output files
+### Other work
 
-🔗 **[Explore the repository](https://github.com/AKPINFA/CodeAlpha_MusicGeneration)**
-
----
-
-### 🗂️ Digital Archive Management System
-
-A web-based digital archiving project developed to explore the digitization and organization of administrative documents.
-
-- PHP and MySQL
-- Database management
-- Digital document organization
-- Web application development
-
-🔗 **[Explore the demo](https://archive-mairie.page.gd)**
-
----
-
-### 🌐 Personal Portfolio
-
-My personal portfolio showcasing my background, skills, and projects.
-
+**🌐 Personal Portfolio** — my background, skills, and projects in one place.
 🔗 **[Visit my portfolio](https://akpinfa.github.io/Portfolio/)**
 
 ---
