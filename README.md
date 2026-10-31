@@ -108,7 +108,7 @@ Four end-to-end AI projects, each with its own documented repository: a clear RE
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/AKPINFA/CodeAlpha-ObjectDetection">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:DC2626&height=130&text=Object%20Detection%20%26%20Tracking&fontColor=ffffff&fontSize=26&fontAlignY=50" alt="Object Detection and Tracking" width="100%">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:DC2626&height=130&text=Object%20Detection&fontColor=ffffff&fontSize=28&fontAlignY=50" alt="Object Detection and Tracking" width="100%">
       </a>
       <h3><a href="https://github.com/AKPINFA/CodeAlpha-ObjectDetection">🎯 Object Detection & Tracking</a></h3>
       <p><sub><b>COMPUTER VISION</b></sub></p>
